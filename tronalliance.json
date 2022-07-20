@@ -263,6 +263,14 @@
             "chainId": 1,
             "decimals": 6,
             "logoURI": "https://coin.top/production/upload/logo/TH5ydFhBnLV4ZHF2bgBVaTBfX8LY17kj9W.png?t=1621585681128"
+        },
+         {
+            "symbol":"KITTEE",
+            "address":"TANqasySKYNbdhnZNaxXBCU9w7PLeQ2Krp",
+            "chainId":1,
+            "decimals":6,
+            "name":"KITTEE",
+            "logoURI":"https://coin.top/production/upload/logo/new/TANqasySKYNbdhnZNaxXBCU9w7PLeQ2Krp.png"
         }
     ]
 }
